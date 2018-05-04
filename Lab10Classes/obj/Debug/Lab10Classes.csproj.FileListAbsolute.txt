@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\obj\Debug\Lab10Classes.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\obj\Debug\Lab10Classes.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\bin\Debug\Lab10Classes.exe.config
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\bin\Debug\Lab10Classes.exe
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\bin\Debug\Lab10Classes.pdb
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\obj\Debug\Lab10Classes.exe
+C:\Users\Grand Circus Student\source\repos\Lab10Classes\Lab10Classes\obj\Debug\Lab10Classes.pdb
